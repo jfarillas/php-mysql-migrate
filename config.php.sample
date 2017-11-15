@@ -2,8 +2,7 @@
 
 define('MIGRATIONS_DIR',  'migrations/');
 
-define('DBNAME', '');
-define('DBUSERNAME',  '');
-define('DBPASSWORD',  '');
-define('DBADDRESS',  '');
-
+define('DBNAME', 'lidb');
+define('DBUSERNAME',  'root');
+define('DBPASSWORD',  'root');
+define('DBADDRESS',  'localhost');
